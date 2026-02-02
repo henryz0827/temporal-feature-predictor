@@ -1,4 +1,4 @@
-# TemporalFeaturePredictor
+# Temporal Feature Predictor
 
 A predictive modeling pipeline with sliding window temporal feature engineering for time-series forecasting.
 
