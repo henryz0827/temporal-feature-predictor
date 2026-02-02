@@ -65,7 +65,3 @@ source("step4_feature_visualization.r")
 ## Results
 
 Model performance and feature importance visualizations are saved in `training_analysis/`.
-
-## License
-
-MIT
